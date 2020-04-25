@@ -24,10 +24,10 @@ Prediction Page
 
 Patient affected with CoronaVirus
 
-![Header Image](./patient affected with coronavirus.png)
+![Header Image](./patient-affected-with-coronavirus.png)
 Healthy Patient
 
-![Header Image](./Healthy Patient.png)
+![Header Image](./Healthy-Patient.png)
 
 
 
