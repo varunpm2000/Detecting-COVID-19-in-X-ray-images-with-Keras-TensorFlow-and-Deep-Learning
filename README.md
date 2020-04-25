@@ -19,10 +19,14 @@ Our COVID-19 patient X-ray image dataset
 
 My Project Glimpse
 ![Header Image](./covid-19-prediction.png)
+
 Prediction Page
+
 Patient affected with CoronaVirus
+
 ![Header Image](./patient affected with coronavirus.png)
 Healthy Patient
+
 ![Header Image](./Healthy Patient.png)
 
 
