@@ -24,7 +24,7 @@ Prediction Page
 
 Patient affected with CoronaVirus
 
-![Header Image](./patient-affected-with-coronavirus.png)
+![Header Image](./https://github.com/Varunpm26/Varunpm26-Detecting-COVID-19-in-X-ray-images-with-Keras-TensorFlow-and-Deep-Learning/blob/master/Healthy%20Patient.png?raw=true)
 Healthy Patient
 
 ![Header Image](./Healthy-Patient.png)
